@@ -13,3 +13,6 @@
 [submodule "concat"]
 	path = concat
 	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "willdurand-nodejs"]
+	path = willdurand-nodejs
+	url = https://github.com/willdurand/puppet-nodejs.git
