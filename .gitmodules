@@ -16,3 +16,6 @@
 [submodule "willdurand-nodejs"]
 	path = willdurand-nodejs
 	url = https://github.com/willdurand/puppet-nodejs.git
+[submodule "wget"]
+	path = wget
+	url = https://github.com/maestrodev/puppet-wget.git
