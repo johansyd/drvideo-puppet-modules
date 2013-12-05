@@ -13,12 +13,9 @@
 [submodule "concat"]
 	path = concat
 	url = https://github.com/puppetlabs/puppetlabs-concat.git
-[submodule "willdurand-nodejs"]
-	path = willdurand-nodejs
-	url = https://github.com/willdurand/puppet-nodejs.git
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/puppetlabs/puppetlabs-nodejs.git
 [submodule "wget"]
 	path = wget
 	url = https://github.com/maestrodev/puppet-wget.git
-[submodule "nodejs"]
-	path = nodejs
-	url = https://github.com/danheberden/puppet-nodejs.git
